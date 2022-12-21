@@ -1,0 +1,7 @@
+table : add_travel
+column :travel_id INT 255 A_I
+	travel_place Varchar 500
+	travel_price INT 255
+	travel_desc text
+	image Varchar 500
+	travel_popular INT 255
